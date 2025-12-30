@@ -1,2 +1,2 @@
 # Deep-Optimal-Stopping for Bermudan Max-Call Options
-Implementation of deep optimal stopping methods to price Bermudan max-call options. Neural networks trained on Monte Carlo simulations approximate optimal stopping rules and compute lower and upper price bounds under the Black–Scholes model.
+This project implements the deep optimal stopping framework to price Bermudan max-call options. Using neural networks trained on Monte Carlo simulations under the Black–Scholes model, the code approximates optimal stopping rules and computes lower and upper bounds for option values in high-dimensional settings, following Becker, Cheridito, and Jentzen (2019).
